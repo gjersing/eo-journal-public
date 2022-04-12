@@ -1,4 +1,4 @@
-# eo-journal-public
+# Easy Open Journal
 The public repo for the source code of Easy Open Journal.
 
 Easy Open Journal is a fullstack web application made with Express, Mongoose, and MongoDB. <br>
