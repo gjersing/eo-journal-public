@@ -1,0 +1,23 @@
+{
+  "name": "easy-open-journal",
+  "version": "1.0.0",
+  "description": "Simple text posts shared anonymously across the internet",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gjersing",
+  "license": "ISC",
+  "engines": {
+    "node": "16.14.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "leo-profanity": "^1.5.0",
+    "lodash": "^4.17.11",
+    "mongodb": "^4.4.1",
+    "mongoose": "^6.2.9"
+  }
+}
