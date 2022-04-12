@@ -1,5 +1,5 @@
 # Easy Open Journal
-The public repo for the source code of Easy Open Journal.
+The public repo for the source code of Easy Open Journal // Demo it live here: https://easy-open-journal.herokuapp.com/
 
 Easy Open Journal is a fullstack web application made with Express, Mongoose, MongoDB, and EJS. <br>
 The journal is simple by design. All users can see all journal posts and may compose new entries at will.<br> 
